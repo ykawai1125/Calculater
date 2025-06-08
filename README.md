@@ -25,7 +25,7 @@ This project performs basic arithmetic operations and demonstrates key web devel
 
 ## Live Demo
 
-You can try it 
+You can try it http://127.0.0.1:5500/
 
 ---
 
